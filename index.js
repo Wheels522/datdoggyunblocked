@@ -2,15 +2,15 @@
 /**
  * @type {HTMLFormElement}
  */
-const form = document.getElementById("daform");
+const form = document.getElementById("uv-form");
 /**
  * @type {HTMLInputElement}
  */
-const address = document.getElementById("daaddress");
+const address = document.getElementById("uv-address");
 /**
  * @type {HTMLInputElement}
  */
-const searchEngine = document.getElementById("dasearchengine");
+const searchEngine = document.getElementById("uv-search-engine");
 /**
  * @type {HTMLParagraphElement}
  */
